@@ -1,2 +1,2 @@
 # 7.Pandas-and-Bokeh
-Investigates Pandas and Bokeh within Jupyter Notebook
+Investigates the data visualisation capabilities of the Pandas and Bokeh Python libraries in Jupyter Notebook
